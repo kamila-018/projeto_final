@@ -1,0 +1,61 @@
+.bg-fundo{
+    background-color: #ffffff;
+}
+
+.tx-purple{
+    color: rgb(0, 0, 0);
+}
+.tx-texto{
+    color: #540364;
+}
+
+.titulo-tech{
+    color:#000000;
+    font-weight:bold;
+}
+
+.tech-icon{
+    font-size:55px;
+    transition:.3s;
+}
+
+.tech-icon:hover{
+    transform:scale(1.2);
+}
+
+.tech-icon.html{
+    color:#E44D26;
+}
+
+.tech-icon.css{
+    color:#2196F3;
+}
+
+.tech-icon.js{
+    color:#F7DF1E;
+}
+
+.tech-icon.bootstrap{
+    color:#7952B3;
+}
+
+.tech-icon.git{
+    color:#F05032;
+}
+
+.tech-icon.github{
+    color:#3d3d3d;
+}
+
+.tech-icon.vscode{
+    color:#007ACC;
+}
+
+.tech-icon.figma{
+    color:#F24E1E;
+}
+
+.card-tech p{
+    color:white;
+    font-weight:600;
+}
